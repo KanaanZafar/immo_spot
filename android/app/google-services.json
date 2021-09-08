@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756905766710",
+    "firebase_url": "https://immo-spot.firebaseio.com",
+    "project_id": "immo-spot",
+    "storage_bucket": "immo-spot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756905766710:android:bc8a54452716d01f464d97",
+        "android_client_info": {
+          "package_name": "com.dudedeveloper.immospot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756905766710-gq394942sce18vlfv26i8ll6l5sd0nrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5bAilKJqzkK33LxT8bEo7VVqKQ5-HLhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756905766710-gq394942sce18vlfv26i8ll6l5sd0nrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
